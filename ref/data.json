@@ -1,0 +1,857 @@
+{
+  "items": [
+    {
+      "tags": [
+        "perl",
+        "unix-timestamp",
+        "iso8601"
+      ],
+      "owner": {
+        "reputation": 27318,
+        "user_id": 1122270,
+        "user_type": "registered",
+        "accept_rate": 20,
+        "profile_image": "https://www.gravatar.com/avatar/1ab0e19086582d27abe75b0635f57f43?s=256&d=identicon&r=PG",
+        "display_name": "cnst",
+        "link": "https://stackoverflow.com/users/1122270/cnst"
+      },
+      "is_answered": true,
+      "view_count": 882,
+      "accepted_answer_id": 69212797,
+      "answer_count": 5,
+      "score": -2,
+      "last_activity_date": 1742941291,
+      "creation_date": 1631804256,
+      "last_edit_date": 1632499548,
+      "question_id": 69210779,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/69210779/convert-unix-epoch-time-to-iso8601-in-a-stream-of-data-with-perl",
+      "title": "convert UNIX epoch time to ISO8601 in a stream of data with perl"
+    },
+    {
+      "tags": [
+        "ajax",
+        "perl",
+        "two-factor-authentication"
+      ],
+      "owner": {
+        "reputation": 545,
+        "user_id": 17626613,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bf46f936cac90e34a5ea3a34b59ea13b?s=256&d=identicon&r=PG",
+        "display_name": "Powermaster Prime",
+        "link": "https://stackoverflow.com/users/17626613/powermaster-prime"
+      },
+      "is_answered": true,
+      "view_count": 58,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1742932670,
+      "creation_date": 1742847937,
+      "last_edit_date": 1742932670,
+      "question_id": 79532084,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79532084/how-to-make-temp-2fa-qr-code-in-perl-based-web-application",
+      "title": "How to make temp 2FA QR code in Perl based Web Application"
+    },
+    {
+      "tags": [
+        "sorting",
+        "perl",
+        "hash"
+      ],
+      "owner": {
+        "reputation": 9,
+        "user_id": 17203549,
+        "user_type": "registered",
+        "profile_image": "https://i.sstatic.net/r4bNX.jpg?s=256",
+        "display_name": "Shane",
+        "link": "https://stackoverflow.com/users/17203549/shane"
+      },
+      "is_answered": true,
+      "view_count": 2132,
+      "closed_date": 1634836245,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1742868800,
+      "creation_date": 1634747538,
+      "last_edit_date": 1742868800,
+      "question_id": 69649825,
+      "link": "https://stackoverflow.com/questions/69649825/how-do-i-sort-a-perl-hash-by-keys-numerically",
+      "closed_reason": "Duplicate",
+      "title": "How do I sort a Perl hash by keys numerically?"
+    },
+    {
+      "tags": [
+        "string",
+        "perl"
+      ],
+      "owner": {
+        "reputation": 9743,
+        "user_id": 358892,
+        "user_type": "registered",
+        "accept_rate": 98,
+        "profile_image": "https://www.gravatar.com/avatar/045671150b56832aa7151380bcab8462?s=256&d=identicon&r=PG",
+        "display_name": "hari",
+        "link": "https://stackoverflow.com/users/358892/hari"
+      },
+      "is_answered": true,
+      "view_count": 345087,
+      "closed_date": 1509463539,
+      "accepted_answer_id": 14046720,
+      "answer_count": 3,
+      "score": 84,
+      "last_activity_date": 1742836297,
+      "creation_date": 1356558535,
+      "last_edit_date": 1466016306,
+      "question_id": 14046669,
+      "link": "https://stackoverflow.com/questions/14046669/string-compare-in-perl-with-eq-vs",
+      "closed_reason": "Duplicate",
+      "title": "String compare in Perl with &quot;eq&quot; vs &quot;==&quot;"
+    },
+    {
+      "tags": [
+        "perl",
+        "module"
+      ],
+      "owner": {
+        "reputation": 25306,
+        "user_id": 4632019,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://i.sstatic.net/ZUcYk.png?s=256",
+        "display_name": "Eugen Konkov",
+        "link": "https://stackoverflow.com/users/4632019/eugen-konkov"
+      },
+      "is_answered": true,
+      "view_count": 6538,
+      "accepted_answer_id": 73068151,
+      "answer_count": 2,
+      "score": 8,
+      "last_activity_date": 1742828313,
+      "creation_date": 1639246310,
+      "last_edit_date": 1658594144,
+      "question_id": 70317767,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/70317767/how-to-install-perl-module-without-testing-via-modulebuild",
+      "title": "How to install perl module without testing via `Module::Build`?"
+    },
+    {
+      "tags": [
+        "perl",
+        "outlook",
+        "registry"
+      ],
+      "owner": {
+        "reputation": 19,
+        "user_id": 30014985,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/22493b6a99f3b352eb5686329e8e8893?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "v4169sgr",
+        "link": "https://stackoverflow.com/users/30014985/v4169sgr"
+      },
+      "is_answered": true,
+      "view_count": 130,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1742824782,
+      "creation_date": 1742572114,
+      "last_edit_date": 1742572261,
+      "question_id": 79525955,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79525955/perl-integration-with-64-bit-office-installs",
+      "title": "Perl Integration with 64 Bit Office installs"
+    },
+    {
+      "tags": [
+        "perl",
+        "string-comparison"
+      ],
+      "owner": {
+        "reputation": 3597,
+        "user_id": 118566,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/f44354cf8730c1d9b186d15145f35c9e?s=256&d=identicon&r=PG",
+        "display_name": "PJT",
+        "link": "https://stackoverflow.com/users/118566/pjt"
+      },
+      "is_answered": true,
+      "view_count": 502242,
+      "accepted_answer_id": 1175398,
+      "answer_count": 7,
+      "score": 215,
+      "last_activity_date": 1742767735,
+      "creation_date": 1248399003,
+      "last_edit_date": 1248399399,
+      "question_id": 1175390,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/1175390/how-do-i-compare-two-strings-in-perl",
+      "title": "How do I compare two strings in Perl?"
+    },
+    {
+      "tags": [
+        "perl",
+        "url"
+      ],
+      "owner": {
+        "reputation": 2723,
+        "user_id": 283427,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/5b27041e92e6e6460549f7e9345f53d9?s=256&d=identicon&r=PG",
+        "display_name": "rekha_sri",
+        "link": "https://stackoverflow.com/users/283427/rekha-sri"
+      },
+      "is_answered": true,
+      "view_count": 10018,
+      "closed_date": 1742641287,
+      "accepted_answer_id": 2599061,
+      "answer_count": 4,
+      "score": 5,
+      "last_activity_date": 1742620170,
+      "creation_date": 1270722244,
+      "last_edit_date": 1639463253,
+      "question_id": 2599047,
+      "link": "https://stackoverflow.com/questions/2599047/how-can-i-validate-a-website-url-in-perl",
+      "closed_reason": "Not suitable for this site",
+      "title": "How can I validate a website URL in Perl?"
+    },
+    {
+      "tags": [
+        "regex",
+        "perl"
+      ],
+      "owner": {
+        "reputation": 29441,
+        "user_id": 43756,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/2e1d183650e29061bd3811ccba1bcba7?s=256&d=identicon&r=PG",
+        "display_name": "kal",
+        "link": "https://stackoverflow.com/users/43756/kal"
+      },
+      "is_answered": true,
+      "view_count": 3743,
+      "answer_count": 5,
+      "score": 0,
+      "last_activity_date": 1742565500,
+      "creation_date": 1245913050,
+      "last_edit_date": 1245944737,
+      "question_id": 1042491,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/1042491/replace-multiple-instances-in-a-string-in-perl",
+      "title": "Replace multiple instances in a string in perl"
+    },
+    {
+      "tags": [
+        "regex",
+        "perl"
+      ],
+      "owner": {
+        "reputation": 1041,
+        "user_id": 10704286,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-of8xlFarfwE/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-i8d962iFCs6D-HXxGc6_MAps5gIQ/mo/photo.jpg?sz=256",
+        "display_name": "Demeter P. Chen",
+        "link": "https://stackoverflow.com/users/10704286/demeter-p-chen"
+      },
+      "is_answered": true,
+      "view_count": 136,
+      "accepted_answer_id": 79519556,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1742490660,
+      "creation_date": 1742367634,
+      "question_id": 79519381,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79519381/perl-s-metacharacter-not-matching-when-empty-lines-exists",
+      "title": "perl \\s metacharacter not matching when empty lines exists"
+    },
+    {
+      "tags": [
+        "perl",
+        "ldap",
+        "ldif"
+      ],
+      "migrated_from": {
+        "other_site": {
+          "aliases": [
+            "https://programmer.stackexchange.com",
+            "https://programmers.stackexchange.com",
+            "https://swe.stackexchange.com"
+          ],
+          "styling": {
+            "tag_background_color": "#FFF",
+            "tag_foreground_color": "#5D5D5D",
+            "link_color": "#0077CC"
+          },
+          "related_sites": [
+            {
+              "relation": "meta",
+              "api_site_parameter": "softwareengineering.meta",
+              "site_url": "https://softwareengineering.meta.stackexchange.com",
+              "name": "Software Engineering Meta Stack Exchange"
+            },
+            {
+              "relation": "chat",
+              "site_url": "https://chat.stackexchange.com?tab=site&host=softwareengineering.stackexchange.com",
+              "name": "Chat Stack Exchange"
+            }
+          ],
+          "markdown_extensions": [
+            "Prettify"
+          ],
+          "launch_date": 1292524346,
+          "open_beta_date": 1283972400,
+          "closed_beta_date": 1283367600,
+          "site_state": "normal",
+          "high_resolution_icon_url": "https://cdn.sstatic.net/Sites/softwareengineering/Img/apple-touch-icon@2.png",
+          "favicon_url": "https://cdn.sstatic.net/Sites/softwareengineering/Img/favicon.ico",
+          "icon_url": "https://cdn.sstatic.net/Sites/softwareengineering/Img/apple-touch-icon.png",
+          "audience": "professionals, academics, and students working within the systems development life cycle",
+          "site_url": "https://softwareengineering.stackexchange.com",
+          "api_site_parameter": "softwareengineering",
+          "logo_url": "https://cdn.sstatic.net/Sites/softwareengineering/Img/logo.png",
+          "name": "Software Engineering",
+          "site_type": "main_site"
+        },
+        "on_date": 1346087481,
+        "question_id": 162452
+      },
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "chris4321"
+      },
+      "is_answered": false,
+      "view_count": 866,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1742483272,
+      "creation_date": 1346059382,
+      "last_edit_date": 1346096267,
+      "question_id": 12146389,
+      "link": "https://stackoverflow.com/questions/12146389/perl-netldapldif-moddn-example",
+      "title": "Perl: Net::LDAP::LDIF moddn example"
+    },
+    {
+      "tags": [
+        "arrays",
+        "perl",
+        "element"
+      ],
+      "owner": {
+        "reputation": 22775,
+        "user_id": 472485,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/eaad078400b012b1e37fa6f11dd5c089?s=256&d=identicon&r=PG",
+        "display_name": "Jean",
+        "link": "https://stackoverflow.com/users/472485/jean"
+      },
+      "is_answered": true,
+      "view_count": 8117,
+      "accepted_answer_id": 9627639,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1742278573,
+      "creation_date": 1331255515,
+      "last_edit_date": 1426845150,
+      "question_id": 9627594,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/9627594/remove-elements-of-a-perl-array",
+      "title": "Remove elements of a Perl array"
+    },
+    {
+      "tags": [
+        "perl"
+      ],
+      "owner": {
+        "reputation": 5247,
+        "user_id": 273212,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://www.gravatar.com/avatar/3c0f7b6881ff170bbaea96fc01d2dcf5?s=256&d=identicon&r=PG",
+        "display_name": "Arav",
+        "link": "https://stackoverflow.com/users/273212/arav"
+      },
+      "is_answered": true,
+      "view_count": 15161,
+      "accepted_answer_id": 17936710,
+      "answer_count": 5,
+      "score": 4,
+      "last_activity_date": 1742276715,
+      "creation_date": 1375144994,
+      "last_edit_date": 1742276311,
+      "question_id": 17936565,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/17936565/removing-array-elements-in-perl",
+      "title": "Removing array elements in Perl"
+    },
+    {
+      "tags": [
+        "perl",
+        "unpack"
+      ],
+      "owner": {
+        "reputation": 23208,
+        "user_id": 78667,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/b13a3e168d85c7f7f45ae1e54dc9db57?s=256&d=identicon&r=PG",
+        "display_name": "Arkaitz Jimenez",
+        "link": "https://stackoverflow.com/users/78667/arkaitz-jimenez"
+      },
+      "is_answered": true,
+      "view_count": 7235,
+      "accepted_answer_id": 1165138,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1742267677,
+      "creation_date": 1248267632,
+      "last_edit_date": 1742267677,
+      "question_id": 1165099,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1165099/in-perl-how-can-i-unpack-to-several-variables",
+      "title": "In Perl, how can I unpack to several variables?"
+    },
+    {
+      "tags": [
+        "perl",
+        "pack",
+        "unpack"
+      ],
+      "owner": {
+        "reputation": 85,
+        "user_id": 3114045,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/a64514fb4f990162e0f61d0a632abf59?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "user3114045",
+        "link": "https://stackoverflow.com/users/3114045/user3114045"
+      },
+      "is_answered": true,
+      "view_count": 520,
+      "accepted_answer_id": 20675483,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1742267575,
+      "creation_date": 1387435766,
+      "last_edit_date": 1742267575,
+      "question_id": 20675157,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/20675157/the-pack-function-in-perl",
+      "title": "The &#39;pack&#39; function in Perl"
+    },
+    {
+      "tags": [
+        "perl",
+        "pack"
+      ],
+      "owner": {
+        "reputation": 453,
+        "user_id": 1781749,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/65084b4eaadc6bfc209ef73609e1e256?s=256&d=identicon&r=PG",
+        "display_name": "genx1mx6",
+        "link": "https://stackoverflow.com/users/1781749/genx1mx6"
+      },
+      "is_answered": true,
+      "view_count": 3125,
+      "accepted_answer_id": 35332686,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1742266995,
+      "creation_date": 1455173101,
+      "last_edit_date": 1742266995,
+      "question_id": 35332535,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/35332535/understanding-pack-and-unpack-in-perl",
+      "title": "Understanding pack() and unpack() in Perl"
+    },
+    {
+      "tags": [
+        "perl",
+        "pack"
+      ],
+      "owner": {
+        "reputation": 859,
+        "user_id": 400371,
+        "user_type": "registered",
+        "accept_rate": 38,
+        "profile_image": "https://www.gravatar.com/avatar/bd5aedf0bda01ddac06e2527bce8943e?s=256&d=identicon&r=PG",
+        "display_name": "Nikita",
+        "link": "https://stackoverflow.com/users/400371/nikita"
+      },
+      "is_answered": true,
+      "view_count": 955,
+      "answer_count": 3,
+      "score": -2,
+      "last_activity_date": 1742266783,
+      "creation_date": 1290602068,
+      "last_edit_date": 1742266696,
+      "question_id": 4266818,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/4266818/how-to-use-pack-and-unpack-in-perl",
+      "title": "How to use pack and unpack in Perl"
+    },
+    {
+      "tags": [
+        "perl",
+        "perl-pod"
+      ],
+      "owner": {
+        "reputation": 1013,
+        "user_id": 139923,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://www.gravatar.com/avatar/77147c51aafcbac65b6e0417860adaa1?s=256&d=identicon&r=PG",
+        "display_name": "Anandan",
+        "link": "https://stackoverflow.com/users/139923/anandan"
+      },
+      "is_answered": true,
+      "view_count": 1869,
+      "answer_count": 3,
+      "score": 2,
+      "last_activity_date": 1742103686,
+      "creation_date": 1254719740,
+      "last_edit_date": 1609686843,
+      "question_id": 1518359,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1518359/how-do-i-get-perl-pod-in-string-and-print-it-in-page",
+      "title": "How do I get Perl POD in string and print it in page?"
+    },
+    {
+      "tags": [
+        "perl",
+        "string",
+        "lazy-evaluation"
+      ],
+      "owner": {
+        "reputation": 60918,
+        "user_id": 357024,
+        "user_type": "registered",
+        "accept_rate": 90,
+        "profile_image": "https://www.gravatar.com/avatar/af150b4de54be9be4f4754f31dc3a037?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Mike",
+        "link": "https://stackoverflow.com/users/357024/mike"
+      },
+      "is_answered": true,
+      "view_count": 2023,
+      "accepted_answer_id": 2968711,
+      "answer_count": 6,
+      "score": 7,
+      "last_activity_date": 1742076757,
+      "creation_date": 1275587892,
+      "question_id": 2968535,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/2968535/perl-evaluate-string-lazily",
+      "title": "Perl, evaluate string lazily"
+    },
+    {
+      "tags": [
+        "function",
+        "perl",
+        "oop",
+        "package",
+        "static-methods"
+      ],
+      "owner": {
+        "reputation": 30028,
+        "user_id": 377031,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://www.gravatar.com/avatar/a9b4665d4dbfd73810f0de38d4627013?s=256&d=identicon&r=PG",
+        "display_name": "David B",
+        "link": "https://stackoverflow.com/users/377031/david-b"
+      },
+      "is_answered": true,
+      "view_count": 5786,
+      "accepted_answer_id": 3845813,
+      "answer_count": 2,
+      "score": 17,
+      "last_activity_date": 1741963577,
+      "creation_date": 1286022917,
+      "last_edit_date": 1521637986,
+      "question_id": 3845722,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/3845722/how-should-i-define-static-subroutines-in-perl",
+      "title": "How should I define &#39;static&#39; subroutines in Perl?"
+    },
+    {
+      "tags": [
+        "perl",
+        "boolean",
+        "type-conversion"
+      ],
+      "owner": {
+        "reputation": 79844,
+        "user_id": 13860,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://i.sstatic.net/3mW5P.png?s=256",
+        "display_name": "Jonathan Hall",
+        "link": "https://stackoverflow.com/users/13860/jonathan-hall"
+      },
+      "is_answered": true,
+      "view_count": 5445,
+      "accepted_answer_id": 33016360,
+      "answer_count": 7,
+      "score": 58,
+      "last_activity_date": 1741898769,
+      "creation_date": 1444302589,
+      "last_edit_date": 1444317815,
+      "question_id": 33014080,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/33014080/why-is-considered-bad-form-in-perl",
+      "title": "Why is &quot;!!&quot; considered bad form in Perl?"
+    },
+    {
+      "tags": [
+        "perl"
+      ],
+      "owner": {
+        "reputation": 13673,
+        "user_id": 280772,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/ac6e884cd370d2091c1ed5253fb127aa?s=256&d=identicon&r=PG",
+        "display_name": "Lost",
+        "link": "https://stackoverflow.com/users/280772/lost"
+      },
+      "is_answered": true,
+      "view_count": 368,
+      "accepted_answer_id": 21395368,
+      "answer_count": 1,
+      "score": -5,
+      "last_activity_date": 1741893749,
+      "creation_date": 1390873619,
+      "last_edit_date": 1741893749,
+      "question_id": 21395336,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/21395336/what-does-x-put-do-in-perl",
+      "title": "What does &quot;$x-&gt;Put&quot; do in Perl?"
+    },
+    {
+      "tags": [
+        "perl",
+        "curses"
+      ],
+      "owner": {
+        "reputation": 87,
+        "user_id": 29169791,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/daacb0b6a59dbe9388aa746eaf25dea9?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "Sam Dorfman",
+        "link": "https://stackoverflow.com/users/29169791/sam-dorfman"
+      },
+      "is_answered": true,
+      "view_count": 99,
+      "accepted_answer_id": 79499283,
+      "answer_count": 1,
+      "score": 3,
+      "last_activity_date": 1741808221,
+      "creation_date": 1741636719,
+      "last_edit_date": 1741808221,
+      "question_id": 79499058,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79499058/perl-term-animation-collision-detection-not-working",
+      "title": "perl term animation collision detection not working"
+    },
+    {
+      "tags": [
+        "perl",
+        "statistics",
+        "logging",
+        "median"
+      ],
+      "owner": {
+        "reputation": 6953,
+        "user_id": 62735,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/51d4559d326e8515c726c64ce04acc06?s=256&d=identicon&r=PG",
+        "display_name": "Ask Bj&#248;rn Hansen",
+        "link": "https://stackoverflow.com/users/62735/ask-bj%c3%b8rn-hansen"
+      },
+      "is_answered": false,
+      "view_count": 4860,
+      "answer_count": 2,
+      "score": 9,
+      "last_activity_date": 1741740251,
+      "creation_date": 1254210425,
+      "last_edit_date": 1254268603,
+      "question_id": 1491103,
+      "content_license": "CC BY-SA 2.5",
+      "link": "https://stackoverflow.com/questions/1491103/how-can-i-calculate-the-median-and-standard-deviation-of-a-bunch-stream-of-numbe",
+      "title": "How can I calculate the median and standard deviation of a bunch stream of numbers in Perl?"
+    },
+    {
+      "tags": [
+        "perl"
+      ],
+      "owner": {
+        "reputation": 9,
+        "user_id": 3068780,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/abcbb212c256e16bef1883c6c2722f04?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "guru",
+        "link": "https://stackoverflow.com/users/3068780/guru"
+      },
+      "is_answered": true,
+      "view_count": 111,
+      "closed_date": 1386273576,
+      "answer_count": 1,
+      "score": -4,
+      "last_activity_date": 1741725205,
+      "creation_date": 1386221983,
+      "last_edit_date": 1386304626,
+      "question_id": 20392301,
+      "link": "https://stackoverflow.com/questions/20392301/why-this-perl-program-is-not-giving-expected-output",
+      "closed_reason": "Needs details or clarity",
+      "title": "Why this Perl program is not giving expected output?"
+    },
+    {
+      "tags": [
+        "regex",
+        "perl",
+        "arrays"
+      ],
+      "owner": {
+        "reputation": 2895,
+        "user_id": 120939,
+        "user_type": "registered",
+        "accept_rate": 84,
+        "profile_image": "https://www.gravatar.com/avatar/c31c53293fdf27a76d3b7f36a9e5e3b2?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "cskwrd",
+        "link": "https://stackoverflow.com/users/120939/cskwrd"
+      },
+      "is_answered": true,
+      "view_count": 84835,
+      "protected_date": 1741724906,
+      "accepted_answer_id": 2304626,
+      "answer_count": 8,
+      "score": 77,
+      "last_activity_date": 1741723840,
+      "creation_date": 1266720967,
+      "last_edit_date": 1579310188,
+      "question_id": 2304577,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/2304577/how-can-i-store-regex-captures-in-an-array-in-perl",
+      "title": "How can I store regex captures in an array in Perl?"
+    },
+    {
+      "tags": [
+        "arrays",
+        "perl",
+        "iteration"
+      ],
+      "owner": {
+        "reputation": 22775,
+        "user_id": 472485,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/eaad078400b012b1e37fa6f11dd5c089?s=256&d=identicon&r=PG",
+        "display_name": "Jean",
+        "link": "https://stackoverflow.com/users/472485/jean"
+      },
+      "is_answered": true,
+      "view_count": 297317,
+      "accepted_answer_id": 10488311,
+      "answer_count": 6,
+      "score": 112,
+      "last_activity_date": 1741658465,
+      "creation_date": 1336416193,
+      "last_edit_date": 1374684100,
+      "question_id": 10487316,
+      "content_license": "CC BY-SA 3.0",
+      "link": "https://stackoverflow.com/questions/10487316/best-way-to-iterate-through-a-perl-array",
+      "title": "Best way to iterate through a Perl array"
+    },
+    {
+      "tags": [
+        "arrays",
+        "regex",
+        "perl"
+      ],
+      "owner": {
+        "reputation": 97017,
+        "user_id": 31610,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/20571f32acd27d2cf5f1b1f42ea1a75b?s=256&d=identicon&r=PG",
+        "display_name": "Geo",
+        "link": "https://stackoverflow.com/users/31610/geo"
+      },
+      "is_answered": true,
+      "view_count": 71572,
+      "accepted_answer_id": 1849356,
+      "answer_count": 9,
+      "score": 95,
+      "last_activity_date": 1741635461,
+      "creation_date": 1259957060,
+      "last_edit_date": 1741635461,
+      "question_id": 1849329,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/1849329/is-there-a-perl-shortcut-to-count-the-number-of-matches-in-a-string",
+      "title": "Is there a Perl shortcut to count the number of matches in a string?"
+    },
+    {
+      "tags": [
+        "linux",
+        "loops",
+        "perl"
+      ],
+      "owner": {
+        "reputation": 11,
+        "user_id": 10477502,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/83c83b4406bfbdaeebc8232bb151b929?s=256&d=identicon&r=PG&f=y&so-version=2",
+        "display_name": "k_a_r_o_l",
+        "link": "https://stackoverflow.com/users/10477502/k-a-r-o-l"
+      },
+      "is_answered": true,
+      "view_count": 98,
+      "answer_count": 3,
+      "score": 1,
+      "last_activity_date": 1741630042,
+      "creation_date": 1741264699,
+      "last_edit_date": 1741358355,
+      "question_id": 79489387,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79489387/how-to-use-perl-script-for-multiple-files",
+      "title": "How to use perl script for multiple files"
+    },
+    {
+      "tags": [
+        "wordpress",
+        "docker",
+        "owncloud",
+        "port80"
+      ],
+      "owner": {
+        "reputation": 41,
+        "user_id": 950168,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/8025c246e9ea42bc2d2bf49294c5cc2b?s=256&d=identicon&r=PG",
+        "display_name": "hollandnumerics",
+        "link": "https://stackoverflow.com/users/950168/hollandnumerics"
+      },
+      "is_answered": false,
+      "view_count": 63,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1741629535,
+      "creation_date": 1741552136,
+      "last_edit_date": 1741629535,
+      "question_id": 79496552,
+      "content_license": "CC BY-SA 4.0",
+      "link": "https://stackoverflow.com/questions/79496552/i-have-2-docker-containers-wordpress-exposing-port-443-and-owncloud-exposing-p",
+      "title": "I have 2 docker containers: WordPress exposing port 443, and ownCloud exposing port 8080. Can I add a Perl/httpd container to run exposing port 80?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 298
+}
