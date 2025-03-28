@@ -1,3 +1,13 @@
+import requests
+
+def get_data():
+    response = requests.get("https://api.stackexchange.com/2.2/search?order=desc&sort=activity&intitle=perl&site=stackoverflow", timeout=4000)
+
+    if (response.status_code == 200):
+        return response.json()
+
+    return "Unable to retrieve data!"
+
 def get_answered_responses(json_data):
     """
     Función que cuenta las respuestas contestadas y no contestadas (propiedad: is_answered) en los datos JSON.
