@@ -11,15 +11,19 @@ Pasos
 * Crear la BD en un DBMS de PostgreSQL: test-casa-mecate
 * Ejecutar las sentencias SQL del archivo: ref/test-casa-mecate-backup.sql
 
-1. Instalas dependencias
+2. Activar el entorno virtual
+
+* `.venv\Scripts\activate`
+
+3. Instalas dependencias
 
 * `pip install -r requirements.txt`
 
-3. Correr el proyecto
+4. Correr el proyecto
 
 * `python app.py`
 
-4. Confirmar ejecucion del API ingresando a <http://127.0.0.1:3000/>
+5. Confirmar ejecucion del API ingresando a <http://127.0.0.1:3000/>
 
 ```json
 {
